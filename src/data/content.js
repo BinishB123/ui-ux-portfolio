@@ -2,6 +2,7 @@
  * Single source of truth for all portfolio content.
  * Edit this file to personalize the portfolio — no component changes needed.
  */
+import image from '../assets/WhatsApp Image 2026-06-19 at 22.19.56.jpeg'
 
 export const PROFILE = {
   name: "Your Name",
@@ -12,7 +13,7 @@ export const PROFILE = {
   resumeUrl: "#",
   // Drop the designer's photo in /public (e.g. /designer.jpg) and set the path here.
   // Leave "" to show a styled placeholder with initials.
-  photo: "",
+  photo: image,
   // Small badge on the hero photo. Set to null to hide it.
   //   Experienced → { value: "5+", label: "years exp." }
   //   Fresher     → { value: "Open", label: "to work" }  (or null)
