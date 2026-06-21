@@ -87,7 +87,7 @@ export const SKILLS = [
 export const PROCESS = [
   { step: "01", title: "Discover", desc: "Research users, goals, and constraints to frame the right problem." },
   { step: "02", title: "Define", desc: "Turn insights into flows, information architecture, and wireframes." },
-  { step: "03", title: "Design", desc: "Craft high-fidelity UI, interactions, and a scalable design system." },
+  { step: "03", title: "Design", desc: "Craft high-fidelity UI screens with a consistent style guide and real content." },
   { step: "04", title: "Deliver", desc: "Prototype, test, and hand off polished, dev-ready designs." },
 ];
 
