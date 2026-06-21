@@ -124,6 +124,14 @@ export const PROJECTS = [
     color: "from-emerald-400 to-teal-600",
     url: "https://www.figma.com/design/E9hIxmPaGXA9Vzd0k6CA8m/Web?m=auto&t=OeLl1nZ9BTLfo6c7-1",
   },
+   {
+    title: "Travel Discovery Landing Page",
+    category: "UI . WEB DESIGN",
+    description: "Designed a light-themed travel landing page with category browsing, destination cards, social proof, and a newsletter signup — focused on clean layout and user flow.",
+    tags: [],
+    color: "from-emerald-400 to-teal-600",
+    url: "https://www.figma.com/design/Xzv8SeF9hrMG4EsE54KuKU/ux-ui-designer-portfolio--Community-?node-id=0-1&t=WCoQEfmKNb8mUn6H-1",
+  },
 ];
 
 export const NAV_LINKS = [
