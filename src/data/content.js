@@ -40,7 +40,7 @@ export const ABOUT = {
   // fresher with no metrics yet). Fresher examples are shown below.
   stats: [
     { value: "Fresher", label: "Open to opportunities" },
-    { value: "10+", label: "Practice projects" },
+    // { value: "10+", label: "Practice projects" },
     { value: "100%", label: "Passion for design" },
   ],
 };
