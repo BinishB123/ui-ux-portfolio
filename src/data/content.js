@@ -20,7 +20,7 @@ export const PROFILE = {
   experience: { value: "Open", label: "to work" },
   // icon must match a key in the ICONS map in Contact.jsx
   socials: [
-    { label: "Instagram", icon: "Instagram", url: "#" },
+    { label: "Instagram", icon: "Instagram", url: "https://www.behance.net/sakshiarya8" },
     { label: "LinkedIn", icon: "LinkedIn", url: " https://www.linkedin.com/in/arya-sakshi02/" },
   ],
 };
@@ -93,32 +93,32 @@ export const PROCESS = [
 
 export const PROJECTS = [
   {
-    title: "Apparel design • Graphic",
-    category: "Graduation Project - ABFRL",
+    title: "Graduation Project - ABFRL",
+    category: " Apparel design • Graphic",
     description: "Assisted in seasonal range building for the kidswear department - from market research and mood boarding to tech pack inputs and in - store visual references.",
     tags: [],
     color: "from-violet-500 to-indigo-600",
     url: "https://canva.link/x6njik4v6jzo5ct",
   },
   {
-    title: "Merchandising . Graphics",
-    category: "Summer internship",
+    title: "Summer internship",
+    category: " Merchandising . Graphics",
     description: "Assisted in merchandising operations at Bragiyomi Exports Pvt. Ltd. — coordinating with buyers, tracking orders, and supporting export documentation and sample follow-ups.",
     tags: [],
     color: "from-rose-400 to-pink-600",
     url: "https://canva.link/g13tv6tyiglv05f",
   },
   {
-    title: "UX/UI · FINANCE APP",
-    category: "Personal Finance & Wallet App",
+    title: "Personal Finance & Wallet App",
+    category: " UX/UI · FINANCE APP",
     description: "Designed a dark-mode mobile banking app covering balance overview, card management, and spending statistics — focused on clarity and visual hierarchy.",
     tags: [],
     color: "from-amber-400 to-orange-600",
     url: "https://www.figma.com/design/2zbxXhjOEoUdcgMf1tsV5R/App-ui?m=auto&t=OeLl1nZ9BTLfo6c7-6",
   },
   {
-    title: "UI . WEB DESIGN",
-    category: "Travel Landing Page",
+    title: " Travel Landing Page",
+    category: "UI . WEB DESIGN",
     description: "Designed a dark-themed travel landing page featuring destination highlights, search functionality, and key trust metrics.",
     tags: [],
     color: "from-emerald-400 to-teal-600",
