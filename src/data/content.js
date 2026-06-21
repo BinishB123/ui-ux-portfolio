@@ -5,11 +5,11 @@
 import image from '../assets/WhatsApp Image 2026-06-19 at 22.19.56.jpeg'
 
 export const PROFILE = {
-  name: "Your Name",
+  name: "Sakshi Arya",
   role: "UI/UX Designer",
-  tagline: "I design clean, human-centered digital experiences that are a joy to use.",
-  location: "Australia",
-  email: "hello@yourname.com",
+  tagline: "Where creativity meets function",
+  location: "India",
+  email: "sakshi2.2004@gmail.com",
   resumeUrl: "#",
   // Drop the designer's photo in /public (e.g. /designer.jpg) and set the path here.
   // Leave "" to show a styled placeholder with initials.
@@ -21,17 +21,21 @@ export const PROFILE = {
   // icon must match a key in the ICONS map in Contact.jsx
   socials: [
     { label: "Instagram", icon: "Instagram", url: "#" },
-    { label: "LinkedIn", icon: "LinkedIn", url: "#" },
+    { label: "LinkedIn", icon: "LinkedIn", url: " https://www.linkedin.com/in/arya-sakshi02/" },
   ],
 };
 
 export const ABOUT = {
   heading: "About me",
   // Neutral copy that works for freshers and experienced designers alike.
-  paragraphs: [
-    "I'm a UI/UX designer focused on turning ideas into simple, elegant, and accessible interfaces. I care deeply about the details — spacing, typography, motion, and the little moments that make a product feel right.",
-    "My approach blends research, wireframing, and rapid prototyping to create designs that look great and are intuitive to use. I'm always learning, exploring new tools, and eager to grow through real-world challenges.",
-  ],
+ paragraphs: [
+"I'm Sakshi Arya, a UI/UX designer with a background in Fashion and Textile Design from NIFT Hyderabad.",
+
+"I bring a creative eye and a research-driven approach to every project, focusing not only on how things look but also on how they work for the people using them.",
+
+"My experience spans knitwear design, graphic design, user research, and merchandising, giving me a unique perspective when solving design challenges. I'm currently focused on creating meaningful digital experiences through UI/UX design and am always looking for opportunities to build products that make a real difference."
+]
+,
   // Optional — leave the array empty [] to hide this block (e.g. if you're a
   // fresher with no metrics yet). Fresher examples are shown below.
   stats: [
@@ -47,10 +51,11 @@ export const ABOUT = {
  */
 export const EDUCATION = [
   {
-    degree: "B.Des / B.Tech / Diploma in Design",
-    school: "Your University / College",
+    degree: "B.Des in Knitwear Design",
+    school: "NIFT Hyderabad",
     year: "2022 – 2026",
-    detail: "Relevant coursework: UX Research, Visual Design, HCI, Prototyping.",
+    detail:
+      "Relevant coursework: Fashion Design, User Research, Graphic Design, Textile Studies.",
   },
 ];
 
@@ -59,8 +64,11 @@ export const EDUCATION = [
  * Leave empty [] to hide.
  */
 export const CERTIFICATIONS = [
-  { name: "Google UX Design Certificate", issuer: "Coursera", year: "2025" },
-  { name: "Figma Essentials", issuer: "Online", year: "2025" },
+  {
+    name: "Google Project Management Certificate",
+    issuer: "Google",
+    year: "2025",
+  },
 ];
 
 export const SKILLS = [
