@@ -4,17 +4,17 @@ import { PROJECTS } from "../data/content";
 const Work = () => {
   return (
     <section id="work" className="px-6 py-28 max-w-6xl mx-auto">
-      <div className="reveal mb-16 max-w-2xl">
-        <p className="eyebrow">Selected Work</p>
-        <h2 className="text-3xl sm:text-5xl font-extrabold mt-3">
-          Projects I'm proud of
-        </h2>
-        <p className="mt-4 text-ink/60 text-lg">
-          A few highlights across web and mobile — from research and flows to
-          polished, production-ready UI.
-        </p>
-      </div>
+     <div className="reveal mb-16 max-w-2xl">
+  <p className="eyebrow">Selected Work</p>
 
+  <h2 className="text-3xl sm:text-5xl font-extrabold mt-3">
+    Projects I've worked on
+  </h2>
+
+  <p className="mt-4 text-ink/60 text-lg">
+    A few highlights across apparel design, UX/UI, and web — from concept and research to final execution.
+  </p>
+</div>
       <div className="grid sm:grid-cols-2 gap-7">
         {PROJECTS.map((project, i) => (
           <a
