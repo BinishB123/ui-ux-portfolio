@@ -114,7 +114,7 @@ export const PROJECTS = [
     description: "Designed a dark-mode mobile banking app covering balance overview, card management, and spending statistics — focused on clarity and visual hierarchy.",
     tags: [],
     color: "from-amber-400 to-orange-600",
-    url: "https://www.figma.com/design/2zbxXhjOEoUdcgMf1tsV5R/App-ui?m=auto&t=OeLl1nZ9BTLfo6c7-6",
+    url: "https://www.figma.com/design/2zbxXhjOEoUdcgMf1tsV5R/App-ui?node-id=0-1&t=PzNt19SIKE5H84X7-1",
   },
   {
     title: " Travel Landing Page",
@@ -122,7 +122,7 @@ export const PROJECTS = [
     description: "Designed a dark-themed travel landing page featuring destination highlights, search functionality, and key trust metrics.",
     tags: [],
     color: "from-emerald-400 to-teal-600",
-    url: "https://www.figma.com/design/E9hIxmPaGXA9Vzd0k6CA8m/Web?m=auto&t=OeLl1nZ9BTLfo6c7-1",
+    url: "https://www.figma.com/design/E9hIxmPaGXA9Vzd0k6CA8m/Web?node-id=0-1&t=MAGB9L5uswS8W3x7-1",
   },
    {
     title: "Travel Discovery Landing Page",
@@ -130,7 +130,7 @@ export const PROJECTS = [
     description: "Designed a light-themed travel landing page with category browsing, destination cards, social proof, and a newsletter signup — focused on clean layout and user flow.",
     tags: [],
     color: "from-emerald-400 to-teal-600",
-    url: "https://www.figma.com/design/Xzv8SeF9hrMG4EsE54KuKU/ux-ui-designer-portfolio--Community-?node-id=0-1&t=WCoQEfmKNb8mUn6H-1",
+    url: "https://www.figma.com/design/Xzv8SeF9hrMG4EsE54KuKU/landing-page?node-id=0-1&t=DSMECBOB7ZM3AVUB-1",
   },
 ];
 
